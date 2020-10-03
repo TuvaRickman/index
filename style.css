@@ -1,0 +1,60 @@
+body {
+    margin: 0.5%;
+}
+
+header {
+    font-family: "Lucida Bright", Georgia, serif;
+    background-color: #3d7704be;
+    padding: 1%;
+}
+
+article {
+    font-family: "Lucida Bright", Georgia, serif;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #e0ffbd;
+    display: flex;
+    flex-direction: column;
+}
+
+td {
+    vertical-align: top;
+}
+
+h1 {
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+ul a{
+    color: black;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+footer {
+    padding: 1%;
+    background-color: #3d7704be;
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    color: black;
+}
